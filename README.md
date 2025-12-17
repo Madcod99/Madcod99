@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Madcod99 a software engineer
+- 👋 Hi, I’m Samir Konate, software engineer
 - 👀 I’m interested in web and mobile developpement also game dev
-- 🌱 I’m currently learning angular, nodeJS, .Net
+- 🌱 I’m currently learning Swift, React, nodeJS, .Net
 - 📫 How to contact me samirkonate@gmail.com before my website will be online
 
 <!---
